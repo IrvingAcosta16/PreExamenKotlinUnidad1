@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PaisesJavaUnidad2</string>
+
+    //AQUI SE DECLARA TODAS LAS VARIABLES QUE VA A TENER EL SPINNER
+    <string-array name="paises">
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+    </string-array>
+
+    <string name="desApp">Paises Disponibles</string>
+    <string name="lblPaises">Seleccione un Pais</string>
+</resources>
