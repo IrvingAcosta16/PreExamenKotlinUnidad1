@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     //SE DECLARA EL NOMBRE DEL SPINNER
     private Spinner spnPaises;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
             //SE HACE LA CONSULTA DEL PAIS
             @Override
-            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long 1) {
-                Toast.makeText(MainActivity.this,"Seleccione el pais" + adapterView.getItemAtPosition(i).toString(), Toast.LENGTH_SHORT).show();
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                Toast.makeText(MainActivity.this,"Seleccione el pais " + adapterView.getItemAtPosition(i).toString(), Toast.LENGTH_SHORT).show();
             }
 
             @Override
